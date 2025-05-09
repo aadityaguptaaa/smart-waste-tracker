@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-N-XwxleEyOo/WYQEtqUZGnI/AAAAAAAAwRI/Klh5vIblR_EzyXjHsm1zh5WP3hWZMaciACLcBGAs/s1600/SRM%2BLogo.png" height=70>
 
 
-<h1 align="center">Smart Waste Management System</h1>
+# Smart Waste Management System</h1>
 
 
 
