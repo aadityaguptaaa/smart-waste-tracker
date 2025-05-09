@@ -139,7 +139,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Aaditya Gupta**  
-B.Tech CSE Core – 2nd Year, 4th Semester  
+B.Tech CSE 
 SRM Institute of Science and Technology  
-GitHub: [@aadityaguptaaa](https://github.com/aadityaguptaaa)
-LinkedIn: [aadityaxgupta](https://www.linkedin.com/in/aadityaxgupta/)
+**GitHub:** [@aadityaguptaaa](https://github.com/aadityaguptaaa)  
+**LinkedIn:** [aadityaxgupta](https://www.linkedin.com/in/aadityaxgupta/)
+
