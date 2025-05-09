@@ -138,8 +138,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Aaditya Gupta**  
-B.Tech CSE 
-SRM Institute of Science and Technology  
+B.Tech CSE   
 **GitHub:** [@aadityaguptaaa](https://github.com/aadityaguptaaa)  
 **LinkedIn:** [aadityaxgupta](https://www.linkedin.com/in/aadityaxgupta/)
 
