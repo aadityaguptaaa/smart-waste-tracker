@@ -1,7 +1,7 @@
 CREATE DATABASE  IF NOT EXISTS `nfdb` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `nfdb`;
 
-DROP TABLE IF EXISTS `vehicles`;
+DROP TABLE IF EXISTS `vehicles`; 
 
 CREATE TABLE vehicles (
     vehicle_id VARCHAR(10),
