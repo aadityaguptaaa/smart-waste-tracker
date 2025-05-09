@@ -5,9 +5,6 @@
 
 <h1 align="center">Smart Waste Management System</h1>
 
-# Smart Waste Management System
-
-
 
 
 An intelligent and scalable platform for managing urban waste collection processes, developed during the 4th semester as part of the Database Management Systems (DBMS) coursework at SRM Institute of Science and Technology.
