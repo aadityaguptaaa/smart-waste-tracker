@@ -71,7 +71,6 @@ Open MySQL and execute the following commands:
 ```sql
 CREATE DATABASE nfdb;
 USE nfdb;
-SOURCE sql/schema.sql;
 ```
 
 Update your database credentials in the configuration file (`.env` or `config.js` / `config.php`) as per your environment.
