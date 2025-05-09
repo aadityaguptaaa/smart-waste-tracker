@@ -50,7 +50,7 @@ To set up the project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aadityaguptaaa/smart-waste-management-system.git
+git clone https://github.com/aadityaguptaaa/smart-waste-tracker.git
 cd smart-waste-management-system
 ```
 
