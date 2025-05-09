@@ -137,8 +137,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Aaditya Gupta**  
-B.Tech CSE   
+**Aaditya Gupta**   
 **GitHub:** [@aadityaguptaaa](https://github.com/aadityaguptaaa)  
 **LinkedIn:** [aadityaxgupta](https://www.linkedin.com/in/aadityaxgupta/)
 
