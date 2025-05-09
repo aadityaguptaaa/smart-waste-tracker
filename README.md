@@ -1,9 +1,12 @@
 <img src="https://1.bp.blogspot.com/-N-XwxleEyOo/WYQEtqUZGnI/AAAAAAAAwRI/Klh5vIblR_EzyXjHsm1zh5WP3hWZMaciACLcBGAs/s1600/SRM%2BLogo.png" height=70>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadityaguptaaa/smart-waste-management-system/main/assets/logo.png" alt="Smart Waste Management System Logo" height="70"/>
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/assets/logo.png" alt="Smart Waste Management System Logo" height="70"/>
 </p>
 
 <h1 align="center">Smart Waste Management System</h1>
+
+
+
 
 
 
