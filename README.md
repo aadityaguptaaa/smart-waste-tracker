@@ -62,7 +62,7 @@ Ensure Node.js is installed on your system. Then install project dependencies:
 npm install
 ```
 
-> If you're using another backend (e.g., PHP), skip this and configure your server environment accordingly.
+
 
 ### 3. Configure the Database
 
