@@ -1,8 +1,13 @@
 <img src="https://1.bp.blogspot.com/-N-XwxleEyOo/WYQEtqUZGnI/AAAAAAAAwRI/Klh5vIblR_EzyXjHsm1zh5WP3hWZMaciACLcBGAs/s1600/SRM%2BLogo.png" height=70>
+
 # Smart Waste Management System
 
 
+
+
 An intelligent and scalable platform for managing urban waste collection processes, developed during the 4th semester as part of the Database Management Systems (DBMS) coursework at SRM Institute of Science and Technology.
+
+
 
 ---
 
