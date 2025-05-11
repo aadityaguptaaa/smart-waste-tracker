@@ -9,7 +9,7 @@ BEGIN
         c.message AS complaint_message,
         c.complaint_date,
         w.bio_weight,
-        w.non_bio_weight
+        w.non_bio_weight 
     FROM
         complaint c
     JOIN
