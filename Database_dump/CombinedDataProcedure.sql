@@ -1,7 +1,7 @@
 USE `nfdb`;
 DELIMITER //
 CREATE PROCEDURE GetComplaintAndWaste()
-BEGIN
+BEGIN 
     SELECT
         c.user_id, 
         c.area_name,  
