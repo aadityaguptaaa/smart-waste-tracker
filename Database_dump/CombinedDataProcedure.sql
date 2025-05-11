@@ -6,7 +6,7 @@ BEGIN
         c.user_id, 
         c.area_name,     
         c.driver_name,       
-        c.message AS complaint_message,
+        c.message AS complaint_message, 
         c.complaint_date, 
         w.bio_weight,
         w.non_bio_weight 
