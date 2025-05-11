@@ -7,7 +7,7 @@ BEGIN
         c.area_name,    
         c.driver_name,       
         c.message AS complaint_message,
-        c.complaint_date,
+        c.complaint_date, 
         w.bio_weight,
         w.non_bio_weight 
     FROM
