@@ -3,7 +3,7 @@ DELIMITER //
 CREATE PROCEDURE GetComplaintAndWaste()
 BEGIN
     SELECT
-        c.user_id,
+        c.user_id, 
         c.area_name,
         c.driver_name, 
         c.message AS complaint_message,
